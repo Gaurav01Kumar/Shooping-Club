@@ -531,7 +531,7 @@ border-radius: 20px;
 }
 
 /*Code for mobile screeb*/
-@media screen and (max-width: 730px){
+@media screen and (max-width: 480px){
     #heading{
         height: 90px;
         width: 100%;
